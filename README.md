@@ -20,7 +20,7 @@ Small compiler written in C++
 * will be adding more soon
 * Language is made with semicolons not whitespaces
 
-&nbsp;
+ 
 
 \## Build
 
@@ -39,8 +39,16 @@ Requires
 * ./out || runs the executable
 * echo $? || see output
 
+
+
 \## Status
 please know that this project is still in construction
+
+
+
+\## License
+
+MIT
 
 
 
