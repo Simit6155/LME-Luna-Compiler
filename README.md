@@ -39,12 +39,6 @@ Requires
 * echo $? # see output
 
 
-## Status
-Shortly after coding this I somehow forgot everything and cant do this anymore, this wont be continuing :/
-I also realized coding a parse tree is too overcomplicated for me, maybe in the future.
-
-
-
 ## License
 
 MIT
