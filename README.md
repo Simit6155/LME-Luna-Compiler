@@ -34,7 +34,7 @@ Requires
 ## Running the Programm
 
 * cd cmake-build-debug-wsl # go to the directory
-* ./Luna\_Language\_Machine\_Executable ../test.lme # compiles the test.lme and makes an asm executable
+* build it # compile the test.lme and make an asm executable
 * ./out # runs the executable
 * echo $? # see output
 
